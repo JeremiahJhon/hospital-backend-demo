@@ -1,4 +1,4 @@
-Hospital Middleware API
+🏥 Hospital Middleware API
 
 A secure Hospital Middleware system built with Go (Gin + GORM + PostgreSQL) that allows hospital staff to authenticate and search patient information through an external Hospital Information System (HIS) API.
 
